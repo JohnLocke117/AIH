@@ -1,4 +1,4 @@
-# gestalt_db
+# AI In Healthcare: Gestalt Facial Disease Classification
 
 A new Flutter project.
 
